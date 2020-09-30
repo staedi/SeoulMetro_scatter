@@ -77,7 +77,7 @@ def show_map(data):
         auto_highlight=True,
         # stroked=True,
         filled=True,
-        radius_scale=1000,
+        radius_scale=2500,
         radius_min_pixels=3,
         radius_max_pixels=100,
         get_fill_color='color',
