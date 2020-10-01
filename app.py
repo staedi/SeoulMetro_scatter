@@ -53,6 +53,6 @@ frontend.animate_maps(data,color_set,min_date,max_date)
 
 # Caption for credits
 st.subheader('Credits')
-data_source = 'SeoulMetro'
+data_source = 'Seoul Metropolitan Government OpenData'
 st.write('Data source: ' + data_source)
 st.write('Map provider: Mapbox, OpenStreetMap')
