@@ -29,3 +29,8 @@ Visualization of Seoul Metropolitan subway systems passengers
 ## Sample Result
 
 ![](https://github.com/staedi/SeoulMetro_scatter/raw/master/images/SeoulMetro.png)
+
+## Future developments
+
+* Straighten out Subway Maps using Mixed Integer Programming Optimization methods (phenomenal algorithm of *Nollenburg, M., & Wolff, A.*)
+* Replace Pydeck map charts with optimized subway maps (`Networkx`, `ggnetwork` Module or simple charting libraries such as `ggplot2`) 
